@@ -26,7 +26,7 @@ Báo cáo sự cố được lưu tại `backup/bao-cao-su-co.txt`.
 -   Kiểm tra báo cáo sự cố sau khi chạy script.
     
 
-## 3. Bảng thông số phần cứng
+
 ## 3. Bảng thông số phần cứng
 
 | Tên thiết bị | Đơn giá | Loại storage |
